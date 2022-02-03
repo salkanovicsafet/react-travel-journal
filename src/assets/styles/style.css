@@ -39,8 +39,8 @@ body {
 }
 
 .destination__photo img {
-  width: 35rem;
-  height: 20rem;
+  width: 15rem;
+  height: 22rem;
   border-radius: 5px;
   object-fit: cover;
 }
