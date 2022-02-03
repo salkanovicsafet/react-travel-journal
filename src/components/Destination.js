@@ -10,7 +10,7 @@ export default function Destination() {
         />
       </div>
       <div className="destination__info">
-        <div className="destination__info__location">
+        <div className="destination__info__location flex">
           <img
             src={PathIcon}
             alt="Path Icon"
@@ -20,7 +20,9 @@ export default function Destination() {
           <a
             href="https://goo.gl/maps/1DGM5WrWnATgkSNB8"
             className="destination__info__location__gmaps"
-          ></a>
+          >
+            View on Google Maps
+          </a>
         </div>
         <h1 className="destination__info__name">Mount Fuji</h1>
         <div className="destination__info__date">

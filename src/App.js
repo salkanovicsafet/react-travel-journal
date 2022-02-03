@@ -7,6 +7,7 @@ export default function App() {
       <Navbar />
       <div className="container main">
         <Destination />
+        <Destination />
       </div>
     </div>
   );
