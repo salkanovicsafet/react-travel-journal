@@ -15,7 +15,7 @@
   padding: 3.125rem 2.5rem 1.75rem;
 }
 
-.navbar__flex {
+.flex {
   display: flex;
   justify-content: center;
 }
